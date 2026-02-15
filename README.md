@@ -19,7 +19,7 @@ Analyzed 1,000 credit card transactions to identify fraud patterns across mercha
 
 ## Files
 
-- `fraud_analysis_queries.sql` - All 8 business queries with comments explaining what each one answers
+- `fraud_analysis_queries.sql`[fraud_analysis_queries.sql] - All 8 business queries with comments explaining what each one answers
 
 ## Connected Project
 
