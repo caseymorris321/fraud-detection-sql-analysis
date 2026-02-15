@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection: SQL Analysis
 
-Analyzed 1,000 credit card transactions to identify fraud patterns across merchants, card types, banks, and time periods. This is the SQL side of my [Power BI Fraud Detection Dashboard](https://empathycollides.netlify.app). Same dataset, different angle. The dashboard shows the big picture and these queries dig into the specifics.
+Analyzed 1,000 credit card transactions to identify fraud patterns across merchants, card types, banks, and time periods. This is the SQL side of my [Power BI Fraud Detection Dashboard](https://caseymorrisportfolio.vercel.app/). Same dataset, different angle. The dashboard shows the big picture and these queries dig into the specifics.
 
 ## What I Found
 
@@ -23,4 +23,4 @@ Analyzed 1,000 credit card transactions to identify fraud patterns across mercha
 
 ## Connected Project
 
-The Power BI dashboard built from this same dataset lives on my [portfolio site](https://empathycollides.netlify.app). I used these queries to validate the dashboard numbers and look deeper into patterns the charts alone don't show.
+The Power BI dashboard built from this same dataset lives on my [portfolio site](https://caseymorrisportfolio.vercel.app/). I used these queries to validate the dashboard numbers and look deeper into patterns the charts alone don't show.
